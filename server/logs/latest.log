@@ -1,0 +1,181 @@
+[19:17:04] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[19:17:04] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[19:17:05] [Worker-Main-1/INFO]: Loaded 7 recipes
+[19:17:06] [Server thread/INFO]: Starting minecraft server version 1.17.1
+[19:17:06] [Server thread/INFO]: Loading properties
+[19:17:06] [Server thread/INFO]: This server is running Purpur version git-Purpur-1428 (MC: 1.17.1) (Implementing API version 1.17.1-R0.1-SNAPSHOT) (Git: 9beb23b on ver/1.17.1)
+[19:17:06] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[19:17:06] [Server thread/INFO]: Using 4 threads for Netty based IO
+[19:17:06] [Server thread/INFO]: Default game type: SURVIVAL
+[19:17:06] [Server thread/INFO]: Generating keypair
+[19:17:06] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:17:07] [Server thread/INFO]: Using epoll channel type
+[19:17:07] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[19:17:07] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[19:17:07] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v4.9.3
+[19:17:07] [Server thread/INFO]: [ViaVersion] ViaVersion 4.9.3 is now loaded. Registering protocol transformers and injecting...
+[19:17:07] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[19:17:08] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[19:17:08] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[19:17:08] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[19:17:08] [Server thread/INFO]: [ViaBackwards] Loading ViaBackwards v4.9.2
+[19:17:08] [Server thread/INFO]: [ViaRewind] Loading ViaRewind v3.0.6
+[19:17:08] [Server thread/INFO]: [ViaRewind-Legacy-Support] Loading ViaRewind-Legacy-Support v1.4.2
+[19:17:08] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[19:17:08] [Server thread/INFO]: [ViaRewind] Enabling ViaRewind v3.0.6
+[19:17:08] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:17:08] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:17:08] [Server thread/WARN]: Whilst this makes it possible to use BungeeCord or Velocity, unless access to your server is properly restricted, it also opens up the ability for hackers to connect with any username they choose.
+[19:17:08] [Server thread/WARN]: Please see http://www.spigotmc.org/wiki/firewall-guide/ for further information.
+[19:17:08] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:17:08] [Server thread/INFO]: Preparing level "world"
+[19:17:08] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:17:09] [Server thread/INFO]: Time elapsed: 312 ms
+[19:17:09] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[19:17:09] [Server thread/INFO]: Time elapsed: 167 ms
+[19:17:09] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[19:17:09] [Server thread/INFO]: Time elapsed: 261 ms
+[19:17:09] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v4.9.3
+[19:17:09] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.17.1 (756)
+[19:17:09] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v4.9.2
+[19:17:09] [Server thread/INFO]: [ViaRewind-Legacy-Support] Enabling ViaRewind-Legacy-Support v1.4.2
+[19:17:09] [Server thread/INFO]: Running delayed init tasks
+[19:17:09] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
+[19:17:10] [Server thread/INFO]: Done (3.476s)! For help, type "help"
+[19:17:10] [Server thread/INFO]: Timings Reset
+[19:17:10] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.0.3, you're on: 4.9.3
+[19:17:11] [Server thread/WARN]: UUID of added entity already exists: EntityPig['Pig'/7, uuid='fdfebbfe-51af-4f42-a58d-25a3742e391e', l='ServerLevel[world]', x=-286.53, y=66.00, z=-56.53, cpos=[-18, -4], tl=29786, v=false, rR=null]
+[19:17:11] [Server thread/WARN]: UUID of added entity already exists: EntityWolf['Wolf'/9, uuid='6e19e1e1-59df-4d15-b89e-4b271876f70d', l='ServerLevel[world]', x=-261.78, y=63.00, z=-96.78, cpos=[-17, -7], tl=29833, v=false, rR=null]
+[19:17:11] [Server thread/WARN]: UUID of added entity already exists: EntitySheep['Sheep'/11, uuid='0cafca79-c748-4eeb-9923-8b961e5825e3', l='ServerLevel[world]', x=-263.58, y=83.00, z=-19.35, cpos=[-17, -2], tl=89613, v=false, rR=null]
+[19:17:11] [Server thread/WARN]: UUID of added entity already exists: EntitySheep['Sheep'/13, uuid='0cafca79-c748-4eeb-9923-8b961e5825e3', l='ServerLevel[world]', x=-261.83, y=77.00, z=-7.31, cpos=[-17, -1], tl=101614, v=false, rR=null]
+[19:17:11] [Server thread/WARN]: UUID of added entity already exists: EntitySheep['Sheep'/15, uuid='0cafca79-c748-4eeb-9923-8b961e5825e3', l='ServerLevel[world]', x=-247.45, y=72.00, z=-25.05, cpos=[-16, -2], tl=71613, v=false, rR=null]
+[19:17:11] [Server thread/WARN]: UUID of added entity already exists: EntitySheep['Sheep'/17, uuid='0cafca79-c748-4eeb-9923-8b961e5825e3', l='ServerLevel[world]', x=-244.17, y=83.00, z=-7.32, cpos=[-16, -1], tl=263614, v=false, rR=null]
+[19:17:11] [Server thread/WARN]: UUID of added entity already exists: EntityPig['Pig'/20, uuid='d9dc9eaa-ac71-4230-bd00-17db16152d1b', l='ServerLevel[world]', x=-248.14, y=81.00, z=-0.51, cpos=[-16, -1], tl=287789, v=false, rR=null]
+[19:17:11] [Server thread/WARN]: UUID of added entity already exists: EntityChicken['Chicken'/21, uuid='5beb8cd3-75ae-4cac-bb24-30af0a33a32b', l='ServerLevel[world]', x=-246.27, y=73.00, z=6.00, cpos=[-16, 0], tl=250815, v=false, rR=null]
+[19:17:11] [Server thread/WARN]: UUID of added entity already exists: EntitySheep['Sheep'/22, uuid='0cafca79-c748-4eeb-9923-8b961e5825e3', l='ServerLevel[world]', x=-247.26, y=80.00, z=0.51, cpos=[-16, 0], tl=251615, v=false, rR=null]
+[19:17:11] [Server thread/WARN]: UUID of added entity already exists: EntitySheep['Sheep'/24, uuid='0cafca79-c748-4eeb-9923-8b961e5825e3', l='ServerLevel[world]', x=-234.80, y=82.00, z=-2.20, cpos=[-15, -1], tl=275614, v=false, rR=null]
+[19:17:12] [Server thread/WARN]: UUID of added entity already exists: EntityCow['Cow'/31, uuid='95ba5016-94ba-4175-866e-e4142c3ad41f', l='ServerLevel[world]', x=-190.55, y=69.00, z=-22.17, cpos=[-12, -2], tl=53213, v=false, rR=null]
+[19:17:12] [Server thread/WARN]: UUID of added entity already exists: EntitySheep['Sheep'/40, uuid='3389cf77-8df1-4cea-a981-37a80f7e96a9', l='ServerLevel[world]', x=-167.50, y=64.00, z=-22.28, cpos=[-11, -2], tl=287213, v=false, rR=null]
+[19:17:12] [Server thread/WARN]: UUID of added entity already exists: EntitySheep['Sheep'/41, uuid='3389cf77-8df1-4cea-a981-37a80f7e96a9', l='ServerLevel[world]', x=-170.22, y=64.00, z=-14.49, cpos=[-11, -1], tl=257214, v=false, rR=null]
+[19:17:12] [Server thread/WARN]: UUID of added entity already exists: EntityPig['Pig'/46, uuid='46e2359a-2a05-4109-9604-9dc898879b0d', l='ServerLevel[world]', x=-170.24, y=70.00, z=76.74, cpos=[-11, 4], tl=5834, v=false, rR=null]
+[19:17:12] [Server thread/WARN]: UUID of added entity already exists: EntitySheep['Sheep'/50, uuid='3389cf77-8df1-4cea-a981-37a80f7e96a9', l='ServerLevel[world]', x=-136.08, y=64.00, z=-25.08, cpos=[-9, -2], tl=221214, v=false, rR=null]
+[19:17:12] [Server thread/WARN]: UUID of added entity already exists: EntitySheep['Sheep'/52, uuid='3389cf77-8df1-4cea-a981-37a80f7e96a9', l='ServerLevel[world]', x=-135.78, y=64.00, z=-14.84, cpos=[-9, -1], tl=215215, v=false, rR=null]
+[19:17:13] [Server thread/WARN]: UUID of added entity already exists: EntityChicken['Chicken'/152, uuid='86d07476-57fa-4e93-9770-222307f9ba85', l='ServerLevel[world]', x=-304.08, y=68.00, z=-47.74, cpos=[-20, -3], tl=5423, v=false, rR=null]
+[19:18:41] [User Authenticator #1/INFO]: UUID of player 3MORA_ is fc7f4492-5532-3868-a0d3-6f332022642f
+[19:18:41] [Server thread/INFO]: 3MORA_ joined the game
+[19:18:41] [Server thread/INFO]: 3MORA_[/[0:0:0:0:0:0:0:1]:52334] logged in with entity id 188 at ([world]-159.5, 69.0, -71.5)
+[19:18:41] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
+[19:18:41] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
+[19:18:41] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
+[19:18:41] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
+[19:28:56] [Server thread/INFO]: 3MORA_ lost connection: Disconnected
+[19:28:56] [Server thread/INFO]: 3MORA_ left the game
+[19:30:56] [User Authenticator #2/INFO]: UUID of player Majd911 is 596407cf-3955-369d-b71a-6a3ee4cfa352
+[19:30:56] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
+[19:30:56] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
+[19:30:56] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
+[19:30:56] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
+[19:30:56] [Server thread/INFO]: Majd911 joined the game
+[19:30:56] [Server thread/INFO]: Majd911[/[0:0:0:0:0:0:0:1]:48542] logged in with entity id 1780 at ([world]-157.5, 69.0, -61.5)
+[19:31:29] [User Authenticator #2/INFO]: UUID of player N3uh is 7a058c11-58ba-3bfe-9225-adf6495c509d
+[19:31:29] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
+[19:31:29] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
+[19:31:29] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
+[19:31:29] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
+[19:31:29] [Server thread/INFO]: N3uh joined the game
+[19:31:29] [Server thread/INFO]: N3uh[/[0:0:0:0:0:0:0:1]:54474] logged in with entity id 2048 at ([world]-151.5, 69.0, -70.5)
+[19:31:57] [Server thread/INFO]: Majd911 lost connection: Disconnected
+[19:31:57] [Server thread/INFO]: Majd911 left the game
+[19:32:13] [Server thread/INFO]: N3uh lost connection: Disconnected
+[19:32:13] [Server thread/INFO]: N3uh left the game
+[19:33:06] [User Authenticator #3/INFO]: UUID of player Majd911 is 596407cf-3955-369d-b71a-6a3ee4cfa352
+[19:33:06] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
+[19:33:06] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
+[19:33:06] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
+[19:33:06] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
+[19:33:06] [Server thread/INFO]: Majd911 joined the game
+[19:33:06] [Server thread/INFO]: Majd911[/[0:0:0:0:0:0:0:1]:51372] logged in with entity id 2255 at ([world]-203.06197687511863, 85.0, 50.11155432160792)
+[19:33:14] [User Authenticator #3/INFO]: UUID of player N3uh is 7a058c11-58ba-3bfe-9225-adf6495c509d
+[19:33:14] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
+[19:33:14] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
+[19:33:14] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
+[19:33:14] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
+[19:33:14] [Server thread/INFO]: N3uh joined the game
+[19:33:14] [Server thread/INFO]: N3uh[/[0:0:0:0:0:0:0:1]:46908] logged in with entity id 2362 at ([world]-121.83184646916786, 64.0, -50.337334595928404)
+[19:33:27] [Server thread/INFO]: N3uh lost connection: Disconnected
+[19:33:27] [Server thread/INFO]: N3uh left the game
+[19:33:29] [Server thread/INFO]: Majd911 lost connection: Disconnected
+[19:33:29] [Server thread/INFO]: Majd911 left the game
+[19:47:14] [User Authenticator #4/INFO]: UUID of player Majd911 is 596407cf-3955-369d-b71a-6a3ee4cfa352
+[19:47:14] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
+[19:47:14] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
+[19:47:14] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
+[19:47:14] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
+[19:47:14] [Server thread/INFO]: Majd911 joined the game
+[19:47:14] [Server thread/INFO]: Majd911[/[0:0:0:0:0:0:0:1]:41824] logged in with entity id 2439 at ([world]-203.47390119192545, 87.0, 55.72269689686682)
+[19:48:17] [Server thread/INFO]: Majd911 has made the advancement [Stone Age]
+[19:48:41] [User Authenticator #5/INFO]: UUID of player N3uh is 7a058c11-58ba-3bfe-9225-adf6495c509d
+[19:48:41] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
+[19:48:41] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
+[19:48:41] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
+[19:48:41] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
+[19:48:41] [Server thread/INFO]: N3uh joined the game
+[19:48:41] [Server thread/INFO]: N3uh[/[0:0:0:0:0:0:0:1]:59016] logged in with entity id 2699 at ([world]-120.40326204616227, 64.0, -50.50102417425901)
+[19:48:47] [Server thread/INFO]: Majd911 was blown up by Creeper
+[19:48:50] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring incoming plugin message with channel: EAG|Capes-1.8
+[19:49:18] [User Authenticator #5/INFO]: UUID of player 3MORA_ is fc7f4492-5532-3868-a0d3-6f332022642f
+[19:49:18] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
+[19:49:18] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
+[19:49:18] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
+[19:49:18] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
+[19:49:18] [Server thread/INFO]: 3MORA_ joined the game
+[19:49:18] [Server thread/INFO]: 3MORA_[/[0:0:0:0:0:0:0:1]:44562] logged in with entity id 2946 at ([world]-156.41775401104056, 66.0, 48.30000001192094)
+[19:49:26] [Server thread/INFO]: 3MORA_ burned to death
+[19:49:38] [Server thread/INFO]: 3MORA_ lost connection: Disconnected
+[19:49:38] [Server thread/INFO]: 3MORA_ left the game
+[19:49:45] [User Authenticator #5/INFO]: UUID of player 3MORA_ is fc7f4492-5532-3868-a0d3-6f332022642f
+[19:49:45] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
+[19:49:46] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
+[19:49:46] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
+[19:49:46] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
+[19:49:46] [Server thread/INFO]: 3MORA_ joined the game
+[19:49:46] [Server thread/INFO]: 3MORA_[/[0:0:0:0:0:0:0:1]:55544] logged in with entity id 3102 at ([world]-157.6564273208769, 68.0, 47.536868517447154)
+[19:49:56] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring incoming plugin message with channel: EAG|Capes-1.8
+[19:49:59] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring incoming plugin message with channel: EAG|Capes-1.8
+[19:50:03] [Server thread/INFO]: Majd911 has made the advancement [Monster Hunter]
+[19:50:12] [Server thread/INFO]: Majd911 was slain by Zombie
+[19:50:15] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring incoming plugin message with channel: EAG|Capes-1.8
+[19:50:18] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring incoming plugin message with channel: EAG|Capes-1.8
+[19:50:25] [Server thread/INFO]: N3uh has made the advancement [Stone Age]
+[19:50:33] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring incoming plugin message with channel: EAG|Capes-1.8
+[19:50:36] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring incoming plugin message with channel: EAG|Capes-1.8
+[19:51:40] [Server thread/INFO]: N3uh has made the advancement [Getting an Upgrade]
+[19:51:56] [Server thread/INFO]: 3MORA_ has made the advancement [Stone Age]
+[19:52:21] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring incoming plugin message with channel: EAG|Capes-1.8
+[19:52:30] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring incoming plugin message with channel: EAG|Capes-1.8
+[19:52:52] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring incoming plugin message with channel: EAG|Capes-1.8
+[19:53:15] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring incoming plugin message with channel: EAG|Capes-1.8
+[19:53:47] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring incoming plugin message with channel: EAG|Capes-1.8
+[19:53:48] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring incoming plugin message with channel: EAG|Capes-1.8
+[19:53:56] [Server thread/INFO]: Majd911 has made the advancement [Getting an Upgrade]
+[19:55:11] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring incoming plugin message with channel: EAG|Capes-1.8
+[19:55:36] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring incoming plugin message with channel: EAG|Capes-1.8
+[19:55:50] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring incoming plugin message with channel: EAG|Capes-1.8
+[19:56:33] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring incoming plugin message with channel: EAG|Capes-1.8
+[19:56:33] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring incoming plugin message with channel: EAG|Capes-1.8
+[19:56:47] [Server thread/INFO]: 3MORA_ has made the advancement [Getting an Upgrade]
+[19:57:05] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring incoming plugin message with channel: EAG|Capes-1.8
+[19:57:20] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring incoming plugin message with channel: EAG|Capes-1.8
+[19:57:21] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring incoming plugin message with channel: EAG|Capes-1.8
+[19:57:45] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring incoming plugin message with channel: EAG|Capes-1.8
+[19:57:46] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring incoming plugin message with channel: EAG|Capes-1.8
+[19:57:47] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring incoming plugin message with channel: EAG|Capes-1.8
+[19:58:17] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring incoming plugin message with channel: EAG|Capes-1.8
+[19:58:19] [Server thread/INFO]: 3MORA_ has made the advancement [Monster Hunter]
+[19:58:51] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring incoming plugin message with channel: EAG|Capes-1.8
+[19:59:26] [Server thread/INFO]: Majd911 lost connection: Disconnected
+[19:59:26] [Server thread/INFO]: Majd911 left the game
+[20:00:31] [Server thread/INFO]: 3MORA_ lost connection: Disconnected
+[20:00:31] [Server thread/INFO]: 3MORA_ left the game
+[20:00:36] [Server thread/INFO]: N3uh lost connection: Disconnected
+[20:00:36] [Server thread/INFO]: N3uh left the game
